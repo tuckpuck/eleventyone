@@ -4671,15 +4671,15 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-luxon@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.11.1.tgz#4b59f28264ae7ec27b42fe0fb18564dae771d2f7"
-  integrity sha512-ZmfPxP91Swg5MmHOeV/hvdIWiUYm6LCySg0xVRBVtOHZdNqiD32qxUhMek4XbyyXWtKdGMUD+hW+o5pilbRVuA==
-
 luxon@^1.9.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.10.0.tgz#335b55e2fed50e09f869aee828897a3f67c7044e"
   integrity sha512-ry3GKh//v3isD6oJN5pFWmdh+3GiScwv9q8VgG6fZ2j1guGOol2vVVdo4GBAWCrcq5RHOqSeipqHBnOu/u024Q==
+
+luxon@^2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.5.2.tgz#17ed497f0277e72d58a4756d6a9abee4681457b6"
+  integrity sha512-Yg7/RDp4nedqmLgyH0LwgGRvMEKVzKbUdkBYyCosbHgJ+kaOUx0qzSiSatVc3DFygnirTPYnMM2P5dg2uH1WvA==
 
 make-dir@^1.0.0:
   version "1.2.0"
